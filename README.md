@@ -2,6 +2,8 @@ Lego - vim dark colorscheme
 =================================
 Lego is a colorful vim dark color scheme primarily developed for gvim, but it would work in console also. Please enjoy and contribute.
 
+<img src = "https://raw.github.com/vaibhav276/lego-vim-colorscheme/master/screenshot.jpg" />
+
 How to use?
 =============
 1. Download/clone the repository `git clone https://github.com/vaibhav276/lego-vim-colorscheme.git`
@@ -23,4 +25,5 @@ Pull requests are welcome. Please do follow good practices, though.
 
 License
 =========
-This project is licensed under MIT license, which means you are free to do anything you like with it
+This project is licensed under <a href = "http://opensource.org/licenses/MIT" > MIT license </a>, which means you are free to do anything you like with it
+
